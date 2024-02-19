@@ -8,5 +8,7 @@
 			"path": "D:/3feb.html"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3feb.html"
+	}
 }
